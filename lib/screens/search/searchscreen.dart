@@ -34,9 +34,7 @@ class Searchscreen extends StatelessWidget {
           const SizedBox(height: 60),
           Row(
             children: [
-              SizedBox(
-                width: 10,
-              ),
+              SizedBox(width: 10),
               Container(
                 height: 36,
                 width: 393,

@@ -16,9 +16,6 @@ class MyApp extends StatelessWidget {
       title: "Instagram",
       theme: ThemeData.dark(),
       home: SplashScreen(),
-
     );
   }
 }
-
-
